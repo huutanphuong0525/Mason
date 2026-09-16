@@ -1,5 +1,5 @@
 # Mason
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Mason&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+username=Mason&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 Analog IC Design Engineer
 Analog IC design engineer with hands-on experience in schematic and layout design.
 Currently deepening my expertise through an open-source USB transceiver project on

@@ -6,7 +6,7 @@ Currently deepening my expertise through an open-source USB transceiver project 
 Skywater 130nm — applying practical, silicon-level engineering to grow toward the
 next stage of my career.
 <p>
-  <img src="https://img.shields.io/badge/university-HUST-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/university-HCMUT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/focus-Analog%20IC%20Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/current%20project-USB%20Transceiver%20(Skywater%20130nm)-informational?style=for-the-badge" />
 </p><p>
